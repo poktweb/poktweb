@@ -1,0 +1,5 @@
+host + usuario + lista de senhas
+
+Não precisa passar o caminho completo para fz o login exemplo
+
+https://exemple.com.br exemple C://Users/Desktop/senhas.txt

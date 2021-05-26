@@ -1,0 +1,5 @@
+como usar:
+
+python script-brut-force.py host + name login + name senha + usuario +  lista de senhas
+
+Obs: o + não e para ser colocado
