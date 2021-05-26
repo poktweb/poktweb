@@ -1,5 +1,5 @@
 como usar:
 
-python script-brut-force.py host + name login + name senha + usuario +  lista de senhas
+python script-brut-force.py host + name login + name senha + usuario +  lista de senhas + mersagem de logado ou de algum erro
 
 Obs: o + não e para ser colocado
