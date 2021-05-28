@@ -1,9 +1,6 @@
 import requests
 import sys
 
-vermelho = '\033[31m'
-verde = '\033[32m'
-
 argv = sys.argv
 
 lista = argv[2]
@@ -22,4 +19,4 @@ for i in lt:
     r = requests.get(url)
 
     if r.status_code == 200:
-        print(verde + url, 'Found')
+        print(url)
