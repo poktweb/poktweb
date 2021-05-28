@@ -1,0 +1,3 @@
+web-crawler.py + https://host.com + lista.txt
+
+Obs: o + não deve ser colocado
